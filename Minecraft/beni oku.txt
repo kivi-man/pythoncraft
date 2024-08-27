@@ -1,0 +1,1 @@
+kütüphaneyi yüklemeden önce vs buildtool u kurunuz yoksa çalışmaz
